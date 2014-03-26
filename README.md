@@ -6,7 +6,7 @@ Presentation on Hive and Impala at Big Data TechCon Boston, 2014.
 Files in the repository
 =======================
 * [Grover_Hive_Impala_presentation.pdf](https://github.com/markgrover/hive-impala-bdtc/blob/master/Grover%20Hive%20Impala%20presentation.pdf): Slides used in the presentation
-* [2008.tar.gz](https://github.com/markgrover/hive-impala-bdtc/blob/master/2008.tar.gz): Flight delay dataset from 2008.
+* [2008.tar.gz](https://github.com/markgrover/cloudcon-hive/blob/master/2008.tar.gz): Flight delay dataset from 2008.
 * [airports.csv](https://github.com/markgrover/hive-impala-bdtc/blob/master/airports.csv): Dataset linking airport codes to their full names. More details in [Introduction](https://github.com/markgrover/bdtc-hive/blob/master/1-Introduction.md) section.
 * [README.md](https://github.com/markgrover/hive-impala-bdtc/blob/master/README.md): This file.
 
@@ -26,6 +26,7 @@ You will need a box with Hadoop and Hive installed. Easiest way to get it to ins
 <pre>
 <code>
 git clone git://github.com/markgrover/hive-impala-bdtc.git
+(cd hive-impala-bdtc; wget https://github.com/markgrover/cloudcon-hive/blob/master/2008.tar.gz?raw=true)
 tar -xzvf hive-impala-bdtc/2008.tar.gz
 hive
 </code>
