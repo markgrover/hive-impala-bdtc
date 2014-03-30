@@ -6,7 +6,7 @@ Presentation on Hive and Impala at Big Data TechCon Boston, 2014.
 Files in the repository
 =======================
 * [Grover-Hive-Impala-BDTC.pdf](https://github.com/markgrover/hive-impala-bdtc/blob/master/Grover-Hive-Impala-BDTC.pdf?raw=true): Slides used in the presentation
-* [2008.tar.gz](https://github.com/markgrover/cloudcon-hive/blob/master/2008.tar.gz): Flight delay dataset from 2008.
+* [2008.tar.gz](https://github.com/markgrover/cloudcon-hive/blob/master/2008.tar.gz?raw=true): Flight delay dataset from 2008. Dataset exists in the cloudcon-hive repo.
 * [airports.csv](https://github.com/markgrover/hive-impala-bdtc/blob/master/airports.csv): Dataset linking airport codes to their full names. More details in [Introduction](https://github.com/markgrover/bdtc-hive/blob/master/1-Introduction.md) section.
 * [README.md](https://github.com/markgrover/hive-impala-bdtc/blob/master/README.md): This file.
 
