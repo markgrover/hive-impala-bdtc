@@ -26,7 +26,7 @@ You will need a box with Hadoop and Hive installed. Easiest way to get it to ins
 <pre>
 <code>
 git clone git://github.com/markgrover/hive-impala-bdtc.git
-(cd hive-impala-bdtc; wget https://github.com/markgrover/cloudcon-hive/blob/master/2008.tar.gz?raw=true)
+(cd hive-impala-bdtc; wget --no-check-certificate https://github.com/markgrover/cloudcon-hive/blob/master/2008.tar.gz?raw=true)
 tar -xzvf hive-impala-bdtc/2008.tar.gz
 hive
 </code>
