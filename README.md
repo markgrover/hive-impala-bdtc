@@ -127,7 +127,7 @@ FIELDS TERMINATED BY ',';
 
 <pre>
 <code>
-LOAD DATA LOCAL INPATH 'hive-impala-bdtc/airports.csv' OVERWRITE INTO TABLE flight_data;
+LOAD DATA LOCAL INPATH 'hive-impala-bdtc/airports.csv' OVERWRITE INTO TABLE airports;
 </code>
 </pre>
 
