@@ -168,6 +168,7 @@ GROUP BY
 <code>
 bash> impala-shell
 impala> connect localhost;
+impala> show tables;
 </code>
 </pre>
 
