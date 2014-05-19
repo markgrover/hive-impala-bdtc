@@ -161,6 +161,8 @@ GROUP BY
 </code>
 </pre>
 
+Impala commands
+===============
 
 * Now, we will run the same queries on Impala to compare its performance with Hive. No need to re-create these tables in Impala since Hive and Impala share the same metastore. You can directly access them in Impala.
 
