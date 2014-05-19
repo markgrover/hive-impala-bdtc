@@ -1,7 +1,7 @@
 hive-impala-bdtc
 =============
 
-Presentation on Hive and Impala at Big Data TechCon Boston, 2014.
+This repo contains slides, dataset and queries for Big Data TechCon 2014 presentation on Hive and Impala in Boston.
 
 Files in the repository
 =======================
